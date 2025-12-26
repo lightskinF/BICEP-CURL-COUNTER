@@ -1,6 +1,6 @@
 <p align="center">
   <video width="700" autoplay loop muted playsinline>
-    <source src="https://github.com/user-attachments/assets/c2fa9d8b-4638-4f5e-8bab-24978dfd43d0" type="video/mp4">
+    <source src="https://github.com/lightskinF/BICEP-CURL-COUNTER/issues/1" type="video/mp4">
     Il tuo browser non supporta il video.
   </video>
 </p>
