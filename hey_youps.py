@@ -86,14 +86,14 @@ with mp_pose.Pose(min_detection_confidence=0.5, min_tracking_confidence=0.5) as 
             if angle1<32 and stage1=="down":   #se l'angolo è meno di 32 gradi, il braccio è piegato
                 stage1="up"
                 left_counter+=1    #incremento il counter di 1
-                print(left_counter)   #stampo il counter sulla console
+                print(left_counter+" per braccio sinistro")   #stampo il counter sulla console
 
             if angle2>155:
                 stage2="down"
             if angle2<32 and stage2=="down":
                 stage2="up"
                 right_counter+=1
-                print(right_counter)
+                print(right_counter+" per braccio destro")
             
 
         except:
