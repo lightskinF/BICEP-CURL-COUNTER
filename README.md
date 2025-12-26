@@ -1,3 +1,11 @@
+<p align="center">
+  <video width="700" autoplay loop muted playsinline>
+    <source src="demo.mp4" type="video/mp4">
+    Il tuo browser non supporta il video.
+  </video>
+</p>
+
+
 # BICEP-CURL-COUNTER
 Contatore per bicep curl con tutte le sue varianti, distintamente per braccio destro e sinistro.
 
