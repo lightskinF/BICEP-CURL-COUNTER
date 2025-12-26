@@ -1,9 +1,7 @@
 <p align="center">
-  <video width="700" autoplay loop muted playsinline>
-    <source src="https://github.com/lightskinF/BICEP-CURL-COUNTER/issues/1" type="video/mp4">
-    Il tuo browser non supporta il video.
-  </video>
+  ▶️ <a href="https://github.com/lightskinF/BICEP-CURL-COUNTER/issues/1">Guarda la demo video</a>
 </p>
+
 
 
 # BICEP-CURL-COUNTER
