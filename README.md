@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="video_dimostrativo.gif" width="800"><br>
-  <em>Bicep Curl Counter – Demo</em>
+  <img src="demo.gif" width="700">
 </p>
+
+<br/>
 
 
 # BICEP-CURL-COUNTER
