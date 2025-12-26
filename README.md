@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="video_dimostrativo.gif" width="700"><br>
+  <img src="video_dimostrativo.gif" width="800"><br>
   <em>Bicep Curl Counter – Demo</em>
 </p>
 
