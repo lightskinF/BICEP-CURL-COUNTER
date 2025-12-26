@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="video_dimostrativo.gif" width="700"><br>
+  <em>Bicep Curl Counter – Demo</em>
+</p>
+
+
 # BICEP-CURL-COUNTER
 Contatore per bicep curl con tutte le sue varianti, distintamente per braccio destro e sinistro.
 
